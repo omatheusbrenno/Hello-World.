@@ -19,12 +19,12 @@ Este projeto é um "Hello, World." diferente. Ele traz um toque de animação, t
 1. **Clone este repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/Hello-World..git
+git clone https://github.com/seu-usuario/hello-world.git
 ```
 2. **Abra a pasta no VSCode:**
 
 ```bash
-cd Hello-World
+cd hello-world
 code .
 ```
 3. **Execute com Live Server ou apenas pressione F5 (se tiver extensão Live Server instalada):**
