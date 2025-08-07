@@ -8,7 +8,7 @@ Este projeto é um "Hello, World." diferente. Ele traz um toque de animação, t
 
 ## ✨ Demonstração
 
-![Captura de Tela do Projeto](https://github.com/user-attachments/assets/ebf5b422-0cfd-43c3-8cb2-3b38a9ff498f)
+![Captura de Tela do Projeto](https://github.com/omatheusbrenno/hello-world.git)
 
 > Você verá isso no seu navegador: um "Hello, World." com animação de digitação, seguido de uma frase motivacional.
 
@@ -19,7 +19,7 @@ Este projeto é um "Hello, World." diferente. Ele traz um toque de animação, t
 1. **Clone este repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/hello-world.git
+git clone https://github.com/omatheusbrenno/hello-world.git
 ```
 2. **Abra a pasta no VSCode:**
 
